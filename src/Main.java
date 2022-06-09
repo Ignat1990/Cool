@@ -6,31 +6,48 @@ public class Main {
 
 
 
-     Scanner sc = new Scanner(System.in);
+     //Scanner sc = new Scanner(System.in);
 
-int monthNumber = sc.nextInt();
+//int monthNumber = sc.nextInt();
 
-if (monthNumber == 1) System.out.print("January");
-else if (monthNumber == 2) {
-        System.out.print("February");
-        }  else if (monthNumber == 3) {
-        System.out.print("March");
-        }  else if (monthNumber == 4) {
-        System.out.print("April");
-        }  else if (monthNumber == 5) {
-        System.out.print("May");
-        }  else if (monthNumber == 6) {
-        System.out.print("June");
-        }  else if (monthNumber == 7) {
-        System.out.print("July");
-        }  else if (monthNumber == 8) {
-        System.out.print("August");
-        }  else if (monthNumber == 9) {
-        System.out.print("September");
-        }  else if (monthNumber == 10) {
-        System.out.print("October");
-        }  else if (monthNumber == 11) {
-        System.out.print("November");
-        }  else if (monthNumber == 12) {
-        System.out.print("December");
-        }else;}}
+//if (monthNumber == 1) System.out.print("January");
+//else if (monthNumber == 2) {
+        //System.out.print("February");
+       // }  else if (monthNumber == 3) {
+       // System.out.print("March");
+       // }  else if (monthNumber == 4) {
+       // System.out.print("April");
+       // }  else if (monthNumber == 5) {
+       ///// System.out.print("May");
+        //}  else if (monthNumber == 6) {
+       // System.out.print("June");
+      //  }  else if (monthNumber == 7) {
+      //  System.out.print("July");
+      //  }  else if (monthNumber == 8) {
+       // System.out.print("August");
+        ///}  else if (monthNumber == 9) {
+       // System.out.print("September");
+      //  }  else if (monthNumber == 10) {
+      //  System.out.print("October");
+       // }  else if (monthNumber == 11) {
+       // System.out.print("November");
+      //  }  else if (monthNumber == 12) {
+      //  System.out.print("December");
+        //}else;}}
+            int i = 5;
+            for (; i > 0 ; i-=1){
+
+        System.out.println(i);
+
+        //int j = 0;
+        //while (j< 20)
+        //System.out.println(j);
+        //j+=2;
+
+        // int x = 0;
+        //do ()
+        //while()
+        //x++;
+        // System.out.println(x);
+
+        }}}

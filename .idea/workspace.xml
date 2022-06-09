@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4438b6d6-4b0f-4044-8512-db7ce4f73c4c" name="Changes" comment="">
+    <list default="true" id="4438b6d6-4b0f-4044-8512-db7ce4f73c4c" name="Changes" comment="Lesson 3">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson 1/Lesson1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson 1/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson 1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson 1/Lesson4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +23,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Ignat &lt;106703188+ignat1990@users.noreply.github.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
         <entry key="$PROJECT_DIR$" value="master" />
@@ -55,7 +61,7 @@
       <recent name="$PROJECT_DIR$/src/pacetg/com/company " />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Lesson4">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Lesson1$Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lesson1$Main" />
       <module name="Cool" />
@@ -77,12 +83,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Cool" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lesson4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson4" />
+      <module name="Cool" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.lesson4" />
         <item itemvalue="Application.Lesson4" />
         <item itemvalue="Application.Lesson1" />
         <item itemvalue="Application.Lesson1$Main" />
-        <item itemvalue="Application.Lesson4" />
       </list>
     </recent_temporary>
   </component>
@@ -95,6 +116,14 @@
       <option name="presentableId" value="Default" />
       <updated>1654269715546</updated>
     </task>
+    <task id="LOCAL-00001" summary="Lesson 3">
+      <created>1654693366256</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1654693366256</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -107,6 +136,22 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Lesson4.java" />
+    <MESSAGE value="Lesson 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lesson 3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Lesson 1/Lesson4.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Cool$Main.ic" NAME="Main Coverage Results" MODIFIED="1654681270037" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
