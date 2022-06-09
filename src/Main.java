@@ -34,15 +34,15 @@ public class Main {
       //  }  else if (monthNumber == 12) {
       //  System.out.print("December");
         //}else;}}
-            int i = 5;
-            for (; i > 0 ; i-=1){
+            //int i = 5;
+           // for (; i > 0 ; i-=1){
 
-        System.out.println(i);
+        //System.out.println(i);
 
-        //int j = 0;
-        //while (j< 20)
-        //System.out.println(j);
-        //j+=2;
+        int j = 7;
+        while (j< 101){
+        System.out.println(j);
+        j+=7;
 
         // int x = 0;
         //do ()
