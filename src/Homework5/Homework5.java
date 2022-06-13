@@ -4,11 +4,22 @@ import java.util.Scanner;
 
 public class Homework5 {
 
-    Scanner sc = new Scanner(System.in);
+  Scanner sc = new Scanner(System.in);
     int value = sc.nextInt();{
 
-    int[] array = {2, 3, 4, 5, 6, 7};
+   int[] array = {2, 3, 4, 5, 6, 7};
     for (int x: array) {
-        if (x == value) {
-        System.out.print(value);
-        } }}}
+     if (x == value) {
+         System.out.print(value);
+     }
+        } }}
+      //Scanner sc = new Scanner(System.in);
+      //String Couch = sc.nextLine();{
+      //String[] arrayMilan = new String[]{"Ibragimovic", "Theo", "Maldini", "Nesta", "Dida"};
+       // String[] Ibragimovic;
+       // if (arrayMilan == Ibragimovic) {
+          //  System.out.print("Ginias");
+        //}else if (arrayMilan == Theo) {
+                //System.out.print("Good Defender");
+
+

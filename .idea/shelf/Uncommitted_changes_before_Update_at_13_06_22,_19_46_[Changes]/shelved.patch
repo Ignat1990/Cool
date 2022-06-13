@@ -1,0 +1,31 @@
+Index: src/Lesson 1/Lesson1.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>import java.util.Scanner;\n\npublic class Main {\n    public static void main(String[] args) {\n        System.out.println(\"Hello\");\n        Scanner next = new Scanner (System.in);\n        System.out.println(next.nextLine());\n    }\n}
+===================================================================
+diff --git a/src/Lesson 1/Lesson1.java b/src/Lesson 1/Lesson1.java
+--- a/src/Lesson 1/Lesson1.java	
++++ b/src/Lesson 1/Lesson1.java	
+@@ -1,9 +1,14 @@
++package  Lesson4 ;
++
+ import java.util.Scanner;
+ 
+ public class Main {
+-    public static void main(String[] args) {
+-        System.out.println("Hello");
+-        Scanner next = new Scanner (System.in);
+-        System.out.println(next.nextLine());
+-    }
+-}
+\ No newline at end of file
++
++
++    int value[] = new int[]{5, 6, 2, 4, 6, 8};
++
++    Scanner ff = new Scanner(System.in);
++    int value1 = ff.nextInt();    static {
++
++
++        System.out.println();
+\ No newline at end of file
